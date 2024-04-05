@@ -2,7 +2,7 @@ blueprint:
   name: Zone Notification
   description: Send a notification to a device when a person arrives at a specific zone.
   domain: automation
-  source_url: https://git.ofcourcy.com/rob/hass-bp/notify_arriving_zone.yaml
+  source_url: https://github.com/ofcourcy/Home-Assistant-Blueprints/notify_arriving_zone.yaml
   input:
     person_entity:
       name: Person
